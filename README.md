@@ -36,7 +36,7 @@ vn30-portfolio-optimization/
 | | |
 |---|---|
 | **Source** | [`vnstock`](https://github.com/thinh-vu/vnstock) (KBS provider for price history, VCI for listing) |
-| **Period** | 2019-01-01 → 2026-07-01 |
+| **Period** | 2019-01-01 $\rightarrow$ 2026-07-01 |
 | **Price unit** | Closing price in thousand VND (`'000 VND`) |
 | **Universe** | 51 unique symbols - union of the current VN30 constituents and every symbol that has ever entered/left the index between 2019–2026 |
 | **Rebalance frequency assumed** | Semi-annual (January & July HOSE reviews), plus any confirmed off-cycle replacements |

@@ -21,8 +21,8 @@ vn30-portfolio-optimization/
 │       ├── vn30_log_returns_processed.csv
 │       └── vn30_membership_point_in_time.json
 ├── notebooks/
-│   ├── 01_data_collection.ipynb          # ✅ done
-│   ├── 02_baseline_models.ipynb          # ⏳ next
+│   ├── 01_data_collection.ipynb
+│   ├── 02_baseline_models.ipynb
 │   ├── 03_advanced_allocation.ipynb
 │   ├── 04_backtest_engine.ipynb
 │   └── 05_evaluation_robustness.ipynb
